@@ -1,4 +1,5 @@
-# this file will work you through the run_analysis.R file
+# this file will walk you through the run_analysis.R file
+
 line 1: load the R package "dplyr", as the functions "group_by" and "summarise_each" will be used later
 
 line 2 to 4: getting the raw data from the internet and unzip it into the wd, you may want to skip this part if these files are already in your wd
